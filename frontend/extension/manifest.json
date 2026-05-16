@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"YouNote","version":"1.0","description":"AI Notes from YouTube","permissions":["activeTab","scripting"],"action":{"default_popup":"popup.html"},"host_permissions":["https://*.youtube.com/*"]}
